@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(npm --version)",
-      "Bash(docker --version)",
-      "PowerShell(npx eslint . --max-warnings=0)"
-    ]
-  }
-}

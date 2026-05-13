@@ -4,7 +4,7 @@ A full-stack web application where teams plan projects, assign tasks with due da
 
 **Live demo:** https://team-task-managers.up.railway.app
 
-**Repository:** https://github.com/sujalkumar27/Team-Task-Manager-
+**Repository:** https://github.com/sujalkumar27/Team-Task-Manager
 
 ---
 
@@ -72,8 +72,8 @@ For the team flow, open a second browser (incognito), sign up with a different e
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/sujalkumar27/Team-Task-Manager-.git
-cd Team-Task-Manager-
+git clone https://github.com/sujalkumar27/Team-Task-Manager.git
+cd Team-Task-Manager
 npm install
 ```
 
